@@ -1,1 +1,1 @@
-export { default as TodaysDate2 } from "./allo";
+export { default as Allo } from "./allo";
