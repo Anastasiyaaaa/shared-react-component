@@ -6,8 +6,6 @@
   "main": "build/index.js",
   "repository":
     "https://github.com/Anastasiyaaaa/shared-component.git",
-  "author": "Ed Powderham",
-  "license": "MIT",
   "dependencies": {
     "react": "^16.2.0"
   },
